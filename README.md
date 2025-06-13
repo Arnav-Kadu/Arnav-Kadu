@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arnav-Kadu
 - 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently React and Algotrading
 - 📫 How to reach me arnavkadoo@gmail.com
 
 <!---
